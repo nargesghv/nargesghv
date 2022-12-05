@@ -16,6 +16,6 @@
 
 # Visualizating High Dim Space
 
-[![asciicast](https://www.youtube.com/watch?v=2s4TqVAbfz4)](https://www.youtube.com/watch?v=2s4TqVAbfz4)
+[![Click](https://www.youtube.com/watch?v=2s4TqVAbfz4)](https://www.youtube.com/watch?v=2s4TqVAbfz4)
 
 
