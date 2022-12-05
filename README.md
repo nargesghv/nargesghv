@@ -16,6 +16,6 @@
 
 # Visualizating High Dim Space
 
-[![Watch the video]([https://img.youtube.com/vi/T-D1KVIuvjA/maxresdefault.jpg)]
+<video src='(https://www.youtube.com/watch?v=wvsE8jm1GzE)' width=180/>
 
 
