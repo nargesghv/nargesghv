@@ -1,8 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nancy</h1>
 
-<h3 align="center">I am Nancy(Narges), a Master student in Data Science at switzerland.I really enjoy from principal concept of machine learning and statistics and definitly quantom physiscs.I have a dream to combine philosophy with machine learning.Using EM algorithm to find more about unknown around world.</h3>
+<h3 align="center">I am Nancy(Narges)</h3>
+</h3>Master student in Data Science at switzerland.I am interested in principal concept of machine learning, statistics and definitly quantom physiscs.I have a dream to combine philosophy with machine learning.Using EM algorithm to find more about unknown around world.</h3>
 
-- 💬 Ask me about **everything ...**
+- 💬 Ask me about **Anything ...**
 
 - 📫 How to reach me **narivahdan@gmail.com**,**nargesvahdani@gmail.com**
 
