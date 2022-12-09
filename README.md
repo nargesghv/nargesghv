@@ -1,10 +1,10 @@
 <h1 align="center">Hi 👋, I'm Nancy</h1>
 
-<h3 align="center">I am Nancy(Narges), a Master student in Data Science at switzerland.I really enjoy from principal concept of machine learning and statistics and definitly quantom physiscs.I have a dream to combine philosophy with machine learning.</h3>
+<h3 align="center">I am Nancy(Narges), a Master student in Data Science at switzerland.I really enjoy from principal concept of machine learning and statistics and definitly quantom physiscs.I have a dream to combine philosophy with machine learning.Using EM algorithm to find more about unknown around world.</h3>
 
-- 💬 Ask me about **everything related to my projects ...**
+- 💬 Ask me about **everything ...**
 
-- 📫 How to reach me **narivahdan@gmail.com**
+- 📫 How to reach me **narivahdan@gmail.com**,**nargesvahdani@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -18,4 +18,5 @@
 
 [![Click](https://www.youtube.com/watch?v=2s4TqVAbfz4)](https://www.youtube.com/watch?v=2s4TqVAbfz4)
 
+![5](https://user-images.githubusercontent.com/104007366/206745483-fc1968a4-29e9-43d2-8706-a7639f990717.png)
 
