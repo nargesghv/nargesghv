@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Nancy</h1>
+<h1 align="center">Hi 👋, I'm Narges</h1>
 
 <h3 align="center">About me...</h3>
 </h3>Master student in Data Science at switzerland.I am interested in principal concept of machine learning, statistics and definitly quantom physiscs.I have a dream to combine philosophy with machine learning.Using EM algorithm to find more about unknown around world.</h3>
