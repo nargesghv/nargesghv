@@ -3,8 +3,8 @@
 I'm a passionate AI engineer focused on building **real-time intelligent systems** that combine Computer Vision, Agentic AI, and AR/VR technologies.
 
 ## 🚀 About Me
-- 🎯 Currently building real-time vision systems combining **YOLOv8** + **LangChain** + **Unity/WebXR**.
-- 🧠 Passionate about **Agentic AI**, **Real-Time Computer Vision**, and **Immersive Technologies (AR/VR)**.
+- 🎯 Currently building real-time vision systems combining **YOLOv8** + **LangChain** + **Unity/WebXR** and **RealEstate-Forecasting-Platform**.
+- 🧠 Passionate about **Agentic AI**, **Real-Time Computer Vision**,**Immersive Technologies (AR/VR)**, **LLM**, **Fine Tuning**, **Prompt Engineering**.
 - 🌎 I love working on open-source projects that bridge the gap between perception and action.
 - ✨ Always exploring the frontiers of **AI for interaction**, not just observation.
 
