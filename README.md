@@ -29,8 +29,8 @@ I'm a passionate AI engineer focused on building **real-time intelligent systems
 
 ## 📫 How to Reach Me
 
-- ✉️ Email: [nargesvahdani@example.com]
-- 🌐 LinkedIn: [linkedin.com/in/YOUR-LINKEDIN](https://linkedin.com/in/narghotbi/)
+- ✉️ Email: [nargesvahdani@gmail.com]
+- 🌐 LinkedIn: [linkedin](https://linkedin.com/in/narghotbi/)
 - 🌐 Portfolio: [https://nargesvahdaniweb.netlify.app/]
 - 💬 Open to: Freelance AI consulting, Research collaborations, Startup innovation
 
